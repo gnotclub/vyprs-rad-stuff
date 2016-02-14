@@ -1,4 +1,4 @@
 # vyprs-rad-stuff
-i LOVE life
+i LÖVE life
 
 this shit aint licensed
